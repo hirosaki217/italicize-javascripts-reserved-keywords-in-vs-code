@@ -1,6 +1,7 @@
 // im found it from https://stackoverflow.com/questions/51110201/italicize-javascripts-reserved-keywords-in-vs-code and save it
+```
 {
-    "editor.tokenColorCustomizations": {
+	"editor.tokenColorCustomizations": {
         "textMateRules": [
             {
                 "scope": [
@@ -51,3 +52,4 @@
         ]
     }
 }
+```
